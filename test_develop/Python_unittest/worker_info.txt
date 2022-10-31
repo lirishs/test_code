@@ -1,0 +1,6 @@
+annual leave entitlement:
+- 5
+- 10
+department: SQA
+name: Lex
+salary: 8000
